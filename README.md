@@ -1,4 +1,4 @@
-# Mon Projet
+# mon projet Pokedeck
 
 Ce projet est composé de deux parties :
 
@@ -6,8 +6,8 @@ Ce projet est composé de deux parties :
 👉 [https://github.com/Alexandre-Saudemont/pokedeck-front](https://github.com/Alexandre-Saudemont/pokedeck-front)
 
 ## Backend
-👉 https://github.com/ton-user/mon-projet-back
+👉 [https://github.com/ton-user/mon-projet-back](https://github.com/Alexandre-Saudemont/pokedeck-back)
 
 ## Stack
-- Front : React
-- Back : Node.js / PostgreSQL
+- Front : ReactJs / Axios
+- Back : Node.js / PostgreSQL / ExpressJs
